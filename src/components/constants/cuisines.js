@@ -1,0 +1,46 @@
+export const cuisines = [
+    { name: "Pizza", image: "./foods/pizza.jpg", type: "veg" },
+    { name: "Biryani", image: "./foods/biryani.jpg", type: "non-veg" },
+    { name: "Roll", image: "./foods/roll.jpg", type: "non-veg" },
+    {
+        name: "Paneer Tikka",
+        image: "./foods/paneer_tikka.jpg",
+        type: "veg",
+    },
+    { name: "Ice Cream", image: "./foods/icecream.jpg", type: "veg" },
+    { name: "Burger", image: "./foods/burger.jpg", type: "non-veg" },
+    { name: "Dosa", image: "./foods/dosa.jpg", type: "veg" },
+    {
+        name: "Butter Chicken",
+        image: "./foods/butter_chicken.jpg",
+        type: "non-veg",
+    },
+    { name: "Idli", image: "./foods/idli.jpg", type: "veg" },
+    {
+        name: "Chicken Fried Rice",
+        image: "./foods/chicken_fried_rice.jpg",
+        type: "non-veg",
+    },
+    { name: "Kulcha", image: "./foods/kulcha.jpg", type: "veg" },
+    {
+        name: "Chicken Popcorn",
+        image: "./foods/chicken_popcorn.jpg",
+        type: "non-veg",
+    },
+    { name: "Noodles", image: "./foods/noodles.jpg", type: "veg" },
+    {
+        name: "Chicken Tikka",
+        image: "./foods/chicken_tikka.png",
+        type: "non-veg",
+    },
+    { name: "Pasta", image: "./foods/white-sauce-pasta.jpg", type: "veg" },
+    {
+        name: "Chicken Wings",
+        image: "./foods/chicken_wings.jpg",
+        type: "non-veg",
+    },
+    { name: "Paratha", image: "./foods/paratha.jpg", type: "veg" },
+    { name: "Fish Fry", image: "./foods/fish_fry.jpg", type: "non-veg" },
+    { name: "Soup", image: "./foods/soup.jpg", type: "veg" },
+    { name: "Chicken 65", image: "./foods/chicken_65.jpg", type: "non-veg" },
+];
